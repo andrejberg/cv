@@ -76,17 +76,65 @@
 
 ---
 
-## **Skills**  
-- **Machine Learning for Omics Data**  
-- **Data Management and Visualization**  
-- **High-Performance Computing (HPC)**  
-- **Scientific Research & Communication**  
-- **Molecular and Statistical Modelling**  
-- **Computational Workflow Development**  
-- **Interdisciplinary Collaboration**  
-- **Software Development Life Cycle**  
-- **Agile Project Management**  
-- **Teaching & Mentorship**  
+## **Skills**
+- **Ethical Leadership**
+- **Leadership Ethics**
+- **Business Ethics**
+- **Constructive Feedback**
+- **Natural Language Processing (NLP)**
+- **Antibody Engineering**
+- **Screening**
+- **Data Pipelines**
+- **Team Management**
+- **Cloud Computing**
+- **Software Implementation**
+- **Science Communication**
+- **English Writing**
+- **Artificial Intelligence (AI)**
+- **Troubleshooting**
+- **Analytical Skills**
+- **Science**
+- **Teamwork**
+- **SCRUM PSM I**
+- **Life Sciences**
+- **Biochemistry**
+- **R (Programming Language)**
+- **Algorithms**
+- **Linux**
+- **Python (Programming Language)**
+- **Software Development**
+- **Communication**
+- **Engineering**
+- **Agile Methodologies**
+- **Statistics**
+- **Molecular Biology**
+- **Research and Development (R&D)**
+- **Cell Biology**
+- **Bioinformatics**
+- **Medical Research**
+- **Toxicology**
+- **Problem Solving**
+- **Protein Design**
+- **Molecular Modeling**
+- **Project Management**
+- **Standard Operating Procedure (SOP)**
+- **Content Management Systems (CMS)**
+- **Leadership**
+- **Biotechnology**
+- **Chemistry**
+- **Git**
+- **Deep Learning**
+- **Data Analysis**
+- **Scrum**
+- **FAIR**
+- **DFT (Density Functional Theory)**
+- **Scientific Writing**
+- **Protein-Protein Interactions**
+- **Protein Folding**
+- **R**
+- **PHP**
+- **SQL**
+- **GROMACS**
 
 ---
 
@@ -129,4 +177,9 @@
 - **Writing Research Articles in Life & Natural Sciences**  
 - **FAIR Data and Software Workshop**  
 - **HLRS Parallel Programming Workshop**  
-- **PSM I (SCRUM Master)** 
+- **PSM I (SCRUM Master)**
+- **Inclusive Leadership**
+- **Leadership Ethics**
+- **Giving and Receiving Feedback**
+- **Leadership Foundations**
+- **Managing Teams**
