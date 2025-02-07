@@ -1,5 +1,8 @@
 # **Andrej Berg**  
 *Expert in Scientific Data Solutions*  
+
+---
+
 📧 [mailandrejberg@gmail.com](mailto:mailandrejberg@gmail.com)  
 🔗 [GitHub](https://github.com/andrejberg) | [Google Scholar](https://scholar.google.com/citations?user=iTZ9w6MAAAAJ&hl=en) | [LinkedIn](https://www.linkedin.com/in/andrej-berg-3581701ba/)
 
