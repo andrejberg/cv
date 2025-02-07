@@ -138,22 +138,37 @@
 
 ---
 
-## **Selected Publications**  
-1. **Machine Learning Driven Analysis of Large Scale Simulations Reveals Conformational Characteristics of Ubiquitin Chains**  
-   *A. Berg, L. Franke, M. Scheffner, C. Peter | JCTC 2020*  
-   🔗 [Link](https://pubs.acs.org/doi/10.1021/acs.jcim.9b00675)  
+## **Publication List**
 
-2. **EncoderMap (II): Visualizing Important Molecular Motions with Improved Generation of Protein Conformations**  
-   *T. Lemke, A. Berg, A. Jain, C. Peter | J. Chem. Inf. Mod. 2019*  
-   🔗 [Link](https://pubs.acs.org/doi/10.1021/acs.jcim.9b00675)  
+1. **High-efficiency Kemp Eliminases by Complete Computational Design**  
+   *D. Listov, E. Vos, G. Hoffka, S. Y. Hoch, A. Berg, S. Hamer-Rogotner, O. Dym, S. C. L. Kamerlin, S. J. Fleishman | bioRxiv, January 2025*  
 
-3. **Towards a Molecular Basis of Ubiquitin Signaling: A Dual-Scale Simulation Study of Ubiquitin Dimers**  
-   *A. Berg, O. Kukharenko, M. Scheffner, C. Peter | PLOS Comp. Bio. 2018*  
-   🔗 [Link](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006589)  
+2. **Redefining the Limits of Functional Continuity in the Early Evolution of P-loop NTPases**  
+   *A. O. Demkiv, S. Toledo-Patiño, E. M. Carmona, A. Berg, G. P. Pinto, A. Parracino, J. M. Sanchez-Ruiz, A. C. Hengge, P. Laurino, L. M. Longo, S. C. L. Kamerlin | bioRxiv, September 2024*  
 
-4. **Evaluation and Optimization of Interface Force Fields for Water on Gold Surfaces**  
-   *A. Berg, C. Peter, K. Johnston | JCTC 2017*  
-   🔗 [Link](https://pubs.acs.org/doi/10.1021/acs.jctc.7b00612)  
+3. **Multiscale Simulations of Ubiquitin Chains: Linkage and Chain Behavior**  
+   *A. Berg | PhD Thesis, University of Konstanz, 2021*  
+
+4. **Machine Learning Driven Analysis of Large Scale Simulations Reveals Conformational Characteristics of Ubiquitin Chains**  
+   *A. Berg, L. Franke, M. Scheffner, C. Peter | J. Chem. Theory Comput., May 2020*  
+
+5. **The Structure of the Ubiquitin-like Modifier FAT10 Reveals an Alternative Targeting Mechanism for Proteasomal Degradation**  
+   *A. Aichem, S. Anders, N. Catone, P. Rößler, S. Stotz, A. Berg, R. Schwab, S. Scheuermann, J. Bialas, M. C. Schütz-Stoffregen, G. Schmidtke, C. Peter, M. Groettrup, S. Wiesner | Nat. Commun., August 2018*  
+
+6. **Conformational and Functional Characterization of Artificially Conjugated Non-Canonical Ubiquitin Dimers**  
+   *T. Schneider, A. Berg, Z. Ulusoy, M. Gamerdinger, C. Peter, M. Kovermann | Sci. Rep., December 2019*  
+
+7. **EncoderMap(II): Visualizing Important Molecular Motions with Improved Generation of Protein Conformations**  
+   *T. Lemke, A. Berg, A. Jain, C. Peter | J. Chem. Inf. Model., November 2019*  
+
+8. **Simulating and Analysing Configurational Landscapes of Protein–Protein Contact Formation**  
+   *A. Berg, C. Peter | Interface Focus, 2019*  
+
+9. **Towards a Molecular Basis of Ubiquitin Signaling: A Dual-Scale Simulation Study of Ubiquitin Dimers**  
+   *A. Berg, O. Kukharenko, M. Scheffner, C. Peter | PLoS Comput. Biol., November 2018*  
+
+10. **Evaluation and Optimization of Interface Force Fields for Water on Gold Surfaces**  
+   *A. Berg, C. Peter, K. Johnston | J. Chem. Theory Comput., November 2017*  
 
 ---
 
